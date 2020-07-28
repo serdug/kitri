@@ -1,0 +1,46 @@
+# Working directory
+path: /Users/path/to/working/directory/
+
+
+# Chart of Accounts
+chart:
+  assets: chart-assets.csv
+  liabilities: chart-liabilities.csv
+  equity: chart-equity.csv
+  revenues: chart-revenue.csv
+  expenses: chart-expense.csv
+
+# Records of transactions
+records:
+- include: 1
+  id: main-revenue.csv
+
+- include: 1
+  id: main-fees.csv
+
+- include: 1
+  id: invoices-group1.csv
+
+- include: 1
+  id: invoices-paid.csv
+
+- include: 1
+  id: current-advertising.csv
+
+- include: 1
+  id: current-regular.csv
+
+- include: 1
+  id: current-other.csv
+
+- include: 1
+  id: transfers-savings.csv
+
+- include: 1
+  id: transfers-current.csv
+
+- include: 1
+  id: savings-interest.csv
+
+- include: 0
+  id: closing-profit.csv

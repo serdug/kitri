@@ -1,0 +1,53 @@
+# Folders #
+###########
+data
+results*
+_*
+_arc*
+_test*
+_draft*
+
+# Settings #
+# Config, params and settings files are excluded, as they refer to specific 
+# paths to files, which may differ from one computer to another
+###################
+settings/*.yaml
+settings/*.yml
+
+# Compiled source #
+###################
+
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# IDE #
+#######
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+_*.go
+
+# Logs and databases #
+######################
+log.*
+tracelog.*
+*.log
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Trashes
