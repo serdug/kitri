@@ -34,13 +34,14 @@ Categories and records are accepted in CSV files (Comma Separated Values). Any s
 
 The following column order must be respected:
 
-* `Cat` - character string, the category identificator (ID) that must be unique 
-* `Name` - character string, descriptive category name
-* `Balance` - general number (no thousand separators!), starting balance per category
+* `Category` - character string, a category identificator (ID) that must be unique 
+* `Name` - character string, a descriptive category name
+* `Balance` - general number (no thousand separators!), a starting balance per category
 
 The other columns are ignored by the calculator. 
 
 It is assumed that the first row of data contains column titles. The first row is ignored by the calculator. So, all columns may be given any names.
+![Example 1: output](https://github.com/serdug/kitri/blob/master/examples/kitri_example_input-assets.png)
 
 
 #### Records
@@ -48,12 +49,13 @@ It is assumed that the first row of data contains column titles. The first row i
 The following column order must be respected:
 
 * `Amount` - general number (no thousand separators!), the monetary value of transaction 
-* `Source` - character string, unique category ID; it is where the money goes from, or is debited from
-* `Purpose` - character string, unique category ID; it is where the money goes to, or is credited to 
+* `Source` - character string, category ID; it is where the money goes from, or is debited from
+* `Purpose` - character string, category ID; it is where the money goes to, or is credited to 
 
 The other columns may contain any comments, notes or explanations. They are ignored by the calculator.
 
 It is assumed that the first row of data contains column titles. The first row is ignored by the calculator. So, all columns may be given any names.
+![Example 1: output](https://github.com/serdug/kitri/blob/master/examples/kitri_example_input-records.png)
 
 
 ## Examples
