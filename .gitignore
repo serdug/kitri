@@ -16,7 +16,7 @@ settings/*.yml
 
 # Compiled source #
 ###################
-
+*.app
 
 # Packages #
 ############
