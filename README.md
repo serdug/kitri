@@ -19,6 +19,12 @@ Gear up slick spreadsheet office suites for next-level efficiency!
 
 ***
 
+## Output
+
+Kitri returns results in the form convenient for use in Microsoft Excel, LibreOffice Calc or Google Sheets
+![Example 1: output](https://github.com/serdug/kitri/blob/master/examples/kitri_example_output.png)
+
+
 ## Usage
 
 Categories and records are accepted in CSV files (Comma Separated Values). Any single spreadsheet from MS Excel, Google Spreadsheets or LibreOffice Calc may be saved as a CSV file. The CSV format preserves cell values and the structure of columns and rows. Formulas are omitted, although the number formatting remains as is. So please make sure that the number format is set to General / Automatic before saving data as CSV.
