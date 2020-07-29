@@ -6,7 +6,7 @@ Gear up slick spreadsheet office suites for next-level efficiency!
 
 * For non-accountants. Anyone who learns about bookkeeping principles or has basic understanding how accounting works can find it ideal for trial & error accounting.
 
-* A no-brainer tool designed to reconcile trial accounts with spreadsheets of transactions. It enables to create a trial Balance Sheet and a Profit & Loss Statement locally with almost unlimited flexibility in virtually no time: no need to worry about connectivity, upload transactions and store any data in databases of third parties. 
+* A no-brainer tool designed to reconcile trial accounts with spreadsheets of transactions. It enables to create a trial Balance Sheet and a Profit & Loss Statement locally with almost unlimited flexibility in virtually no time: no need to worry about connectivity, upload transactions and store any data in the cloud. 
 
 * Kitri aggregates amounts of recorded transactions by accounts in accordance with a user-defined structure
 
