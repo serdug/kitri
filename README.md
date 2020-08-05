@@ -69,12 +69,15 @@ The structure of input files and configuration templates can be considered on ex
 ## Downloads
 
 Windows (amd64):
-[Download Kitri.exe for Mindows](https://github.com/serdug/kitri/releases/download/v1.0/Kitri.exe.zip)
+
+[Download Kitri.exe for Windows](https://github.com/serdug/kitri/releases/download/v1.0/Kitri.exe.zip)
 
 macOS:
+
 [Download Kitri.dmg for macOS](https://github.com/serdug/kitri/releases/download/v1.0/Kitri.dmg)
 
 Linux:
+
 [Download Kitri.tar.gz for Linux](https://github.com/serdug/kitri/releases/download/v1.0/Kitri.tar.gz)
 
 ```
@@ -84,6 +87,7 @@ $ sudo make install
 ```
 
 Examples:
+
 [Download examples.zip](https://kitri-app.s3.eu-west-2.amazonaws.com/examples.zip)
 
 
