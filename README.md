@@ -66,7 +66,28 @@ The structure of input files and configuration templates can be considered on ex
 * [Config file](https://github.com/serdug/kitri/blob/master/examples/template-ex1.yaml)
 
 
-## Compilation and Running
+## Downloads
+
+Windows (amd64):
+[Download Kitri.exe for Mindows](https://github.com/serdug/kitri/releases/download/v1.0/Kitri.exe.zip)
+
+macOS:
+[Download Kitri.dmg for macOS](https://github.com/serdug/kitri/releases/download/v1.0/Kitri.dmg)
+
+Linux:
+[Download Kitri.tar.gz for Linux](https://github.com/serdug/kitri/releases/download/v1.0/Kitri.tar.gz)
+
+```
+$ tar -xzf Kitri.tar.gz
+$ make
+$ sudo make install
+```
+
+Examples:
+[Download examples.zip](https://kitri-app.s3.eu-west-2.amazonaws.com/examples.zip)
+
+
+## Compilation from source
 
 * Clone the repository
 
